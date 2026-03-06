@@ -1,0 +1,24 @@
+🎬 Text Overlay Template – “Hold On, Mama”
+Scene	Text	Font	Size (px)	Color	Shadow	Placement	Animation
+1	“I knew exactly what you were going through… I just didn’t have the right to discuss your problems.”	Montserrat Bold	60	#FFD580	2px 2px 8px rgba(0,0,0,0.4)	Bottom 15%	Fade in 0.6s, slight upward slide 5px
+
+
+2	“I saw you struggling for our education… I saw you struggling to get us clothes to wear, mama.”	Montserrat Bold	60	#FFD580	2px 2px 8px rgba(0,0,0,0.4)	Bottom 15%	Fade in 0.6s, slide up 5px
+
+3	“This man you got married to… is dead alive? Over the years I asked myself many questions.”	Montserrat Bold	60	#FFD580	2px 2px 8px rgba(0,0,0,0.4)	Bottom 15%	Fade in 0.6s, slide up 5px
+
+
+4	“I know it’s difficult for you but hold on. I am a little grown up now. Hold on just a little bit longer now.”	Montserrat Bold	60	#FFD580	2px 2px 8px rgba(0,0,0,0.4)	Bottom 15%	Fade in 0.6s, slide up 5px
+
+
+5	“You were a laughing stock in the community. The press didn’t rest makin’ news out of you, mama.”	Montserrat Bold	60	#FFD580	2px 2px 8px rgba(0,0,0,0.4)	Bottom 15%	Fade in 0.6s, slide up 5px
+
+
+6	“Now is the time to show them. That he who laughs last, laughs the best.”	Montserrat Bold	60	#FFD580	2px 2px 8px rgba(0,0,0,0.4)	Bottom 15%	Fade in 0.6s, slide up 5px
+
+
+7	“That he who laughs last, laughs the best, that’s the way it is, mama.”	Montserrat Bold	60	#FFD580	2px 2px 8px rgba(0,0,0,0.4)	Bottom 15%	Fade in 0.6s, slide up 5px
+
+
+8	“Hold on, mama. Your time to shine is now. 💛”	Montserrat Bold	65	#FFD580	2px 2px 8px rgba(0,0,0,0.4)	Center	Fade in 0.8s, gentle scale up 3%
+✅ Key Notes

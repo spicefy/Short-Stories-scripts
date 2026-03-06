@@ -1,0 +1,138 @@
+🎬 CINEMATIC LUT — “Golden Strength”
+🎨 Designed For:
+
+Medium-dark brown skin
+
+Warm emotional storytelling
+
+Indoor tungsten + golden hour scenes
+
+Rain / overcast scenes with cool mood
+
+📌 Premiere Pro – Lumetri Settings
+1️⃣ Basic Correction
+
+Input LUT: None
+White Balance:
+
+Temperature: +8
+
+Tint: +4 (magenta)
+
+Tone:
+
+Exposure: +0.2
+
+Contrast: +15
+
+Highlights: -30
+
+Shadows: +20
+
+Whites: -10
+
+Blacks: -8
+
+This keeps skin rich without crushing detail.
+
+2️⃣ Creative Section
+
+Faded Film: 5
+
+Sharpen: 10
+
+Vibrance: +20
+
+Saturation: 105
+
+3️⃣ Curves (Important for Skin Tone)
+RGB Curve:
+
+Slight S-curve
+
+Lift shadows slightly
+
+Soft highlight roll-off
+
+Red Channel Curve:
+
+Lift midtones slightly (boosts warmth naturally)
+
+Blue Channel Curve:
+
+Slight lift in shadows (adds cinematic cool depth)
+
+Slight drop in highlights (warmer skin)
+
+4️⃣ Color Wheels & Match
+Shadows:
+
+Push slightly toward teal/blue (very subtle)
+
+Midtones:
+
+Push gently toward orange
+
+Highlights:
+
+Push toward warm yellow
+
+Intensity should be subtle — cinematic, not Instagram.
+
+5️⃣ HSL Secondary (Skin Protection — VERY IMPORTANT)
+
+Use eyedropper to select her skin.
+
+Refine Hue + Sat + Luma.
+
+Soften (Blur 10–15).
+
+Then:
+
+Increase Temp slightly (+5)
+
+Increase Saturation slightly (+5)
+
+Increase Exposure slightly (+0.1)
+
+This keeps her skin glowing while background shifts.
+
+🎥 Final Look Result
+
+You will get:
+
+Rich golden skin highlights
+
+Deep but detailed shadows
+
+Soft film contrast
+
+Emotional warmth
+
+Cinematic realism
+
+🎞 For Rain Scene (Storm Scene Adjustment)
+
+Only change:
+
+Temperature: -4
+
+Tint: +2
+
+Add more blue in shadows
+
+Keeps mood dramatic but skin still natural.
+
+🎬 If You Want a True .CUBE LUT File
+
+I can:
+
+Generate a downloadable .cube LUT file
+
+Create a warmer “Motherhood Glow” version
+
+Create a darker “Midnight Prayer” LUT
+
+Or build a full 3-LUT cinematic pack for your short
+
+Tell me which style you want refined 🔥

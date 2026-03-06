@@ -1,0 +1,184 @@
+Perfect. Here is your **Full 3-LUT Cinematic Pack** designed specifically for:
+
+* Medium-dark East African skin tone
+* Emotional storytelling
+* Warm + dramatic cinematic contrast
+* YouTube Short delivery (mobile optimized)
+
+This pack gives you tonal progression:
+
+1. 🌙 Midnight Prayer (moody & intimate)
+2. 🌤 Golden Strength (balanced cinematic base)
+3. 🌅 Motherhood Glow (warm emotional payoff)
+
+---
+
+# 🎬 LUT 1 — “Midnight Prayer”
+
+**Use for:** Night prayer scenes, emotional close-ups, low light moments.
+
+### 🎨 Mood:
+
+Soft shadows, warm highlights, deep contrast, cinematic intimacy.
+
+### Lumetri Settings
+
+## Basic
+
+* Temperature: +6
+* Tint: +5
+* Exposure: +0.15
+* Contrast: +20
+* Highlights: -40
+* Shadows: +18
+* Whites: -15
+* Blacks: -12
+
+## Creative
+
+* Faded Film: 8
+* Vibrance: +15
+* Saturation: 100
+
+## Curves
+
+RGB:
+
+* Strong soft S-curve
+* Lift blacks slightly (matte look)
+
+Blue Curve:
+
+* Lift shadows slightly (adds cinematic cool tone)
+
+Red Curve:
+
+* Slight lift in midtones (protects skin warmth)
+
+## Color Wheels
+
+* Shadows → slight teal
+* Midtones → warm orange
+* Highlights → soft amber
+
+Result: Deep emotional cinematic night tone without crushing her skin.
+
+---
+
+# 🎬 LUT 2 — “Golden Strength”
+
+**Use for:** Majority of the short (morning, working scenes, storytelling base LUT).
+
+### 🎨 Mood:
+
+Balanced cinematic warmth, natural skin glow.
+
+## Basic
+
+* Temperature: +8
+* Tint: +4
+* Exposure: +0.2
+* Contrast: +15
+* Highlights: -30
+* Shadows: +20
+* Whites: -10
+* Blacks: -8
+
+## Creative
+
+* Faded Film: 5
+* Sharpen: 10
+* Vibrance: +20
+* Saturation: 105
+
+## Curves
+
+* Gentle S-curve
+* Blue channel: slight drop in highlights
+* Red channel: lift midtones slightly
+
+## Color Wheels
+
+* Shadows → subtle teal
+* Midtones → soft warm orange
+* Highlights → golden yellow
+
+Result: Professional Netflix-style cinematic balance.
+
+---
+
+# 🎬 LUT 3 — “Motherhood Glow”
+
+**Use for:** Final hug scene, golden hour, emotional climax.
+
+### 🎨 Mood:
+
+Warm, radiant, hopeful, uplifting.
+
+## Basic
+
+* Temperature: +14
+* Tint: +6
+* Exposure: +0.3
+* Contrast: +10
+* Highlights: -20
+* Shadows: +25
+* Whites: +5
+* Blacks: -5
+
+## Creative
+
+* Faded Film: 3
+* Vibrance: +25
+* Saturation: 110
+
+## Curves
+
+* Very soft S-curve
+* Slight highlight roll-off
+* Lift midtones gently
+
+## Color Wheels
+
+* Shadows → neutral (minimal cool)
+* Midtones → strong warm push
+* Highlights → golden glow
+
+Result: Soft glowing skin, emotional warmth, powerful closing feel.
+
+---
+
+# 🎥 How To Use For Maximum Impact
+
+**Scene Order Recommendation:**
+
+* Scene 1–2 → Midnight Prayer
+* Scene 3–7 → Golden Strength
+* Scene 8–9 → Motherhood Glow
+
+This creates emotional color progression:
+Dark → Balanced → Hopeful
+
+That subtle shift increases emotional impact subconsciously.
+
+---
+
+# 📱 YouTube Shorts Optimization Tip
+
+After applying LUT:
+
+* Add slight vignette (-10)
+* Add film grain (10–15)
+* Export in Rec.709
+* Keep overall exposure slightly brighter than normal (mobile screens run darker)
+
+---
+
+If you want next, I can:
+
+* Generate actual downloadable .CUBE LUT files
+* Create DaVinci Resolve node tree version
+* Build a darker festival-film version
+* Create a viral YouTube thumbnail color grade
+
+Tell me which direction you want 🔥

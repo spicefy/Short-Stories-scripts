@@ -1,0 +1,132 @@
+The story is deeply emotional and relatable, perfect for visual storytelling.
+
+---
+
+# 🎬 STORYBOARD – *Mama, I’m Getting Divorced*
+
+---
+
+🎞 Scene 1 — The Call (Marriage)
+
+Time: 0:00–0:05
+Shot Type: Medium close-up
+Visual: Young man holding phone, sitting at a desk, soft sunlight coming through a window. Smiling with nervous excitement.
+Text overlay:
+“I remember the day I called mama on the telephone.”
+
+Mood: Warm, hopeful, intimate
+
+AI Prompt:
+*Medium-dark skinned African man in his late 20s, sitting at a small desk, holding a phone, soft morning sunlight through window, nervous but happy smile, cinematic lighting, shallow depth of field, vertical 9:16, ultra realistic, emotional storytelling*
+
+---
+
+🎞 Scene 2 — The Announcement
+
+Time: 0:06–0:10
+Shot Type: Close-up
+Visual: Phone screen showing “Calling Mama…”
+He says softly (subtle lip movement for text overlay).
+Text overlay:
+“I told her mama, I’m getting married.”
+
+Mood: Warm, proud, hopeful
+
+AI Prompt:
+*Close-up of smartphone screen showing “Calling Mama…”, hand holding phone, background slightly blurred, cinematic lighting, ultra realistic, vertical 9:16, emotional storytelling*
+
+---
+
+🎞 Scene 3 — Mama’s Question
+
+Time: 0:11–0:17
+Shot Type: Split-screen / imagined visual
+Visual: Woman’s smiling face on the other side of phone (soft warm light), subtle voicewave effect or soft glow around her.
+Text overlay:
+“Did you take time to know her?”
+
+Mood: Soft, caring, reflective
+
+AI Prompt:
+*Middle-aged African woman with gentle warm smile, sitting by window, soft sunlight illuminating her face, warm cinematic tones, ultra realistic, vertical 9:16, emotional storytelling, phone conversation implied*
+
+---
+
+🎞 Scene 4 — Proud Answer
+
+Time: 0:18–0:23
+Shot Type: Close-up of man
+Visual: Man smiling, proud, confident nod.
+Text overlay:
+“I said mama, she is the best.”
+
+Mood: Happy, hopeful, warm
+
+AI Prompt:
+*The same African man in late 20s, smiling proudly while holding phone, soft golden sunlight, cinematic lighting, ultra realistic, vertical 9:16, emotional storytelling*
+
+---
+
+🎞 Scene 5 — Time Passes / Reflection
+
+Time: 0:24–0:30
+Shot Type: Slow motion / montage
+Visual: Wedding photos, smiles, holding hands, happy couple.
+Text overlay:
+“This choice I made… didn’t work out the way I thought it would.”
+
+Mood: Bittersweet, reflective
+
+AI Prompt:
+*Wedding montage scene, African couple smiling and holding hands, soft cinematic golden lighting, shallow depth of field, ultra realistic, vertical 9:16, emotional storytelling*
+
+---
+
+🎞 Scene 6 — The Divorce Call
+
+Time: 0:31–0:40
+Shot Type: Medium close-up
+Visual: Same man holding phone, face shadowed, tense, sad.
+Text overlay:
+“Today it hurts me to go back to mama and say, ‘I’m getting divorced.’”
+
+Mood: Sad, emotional, heavy
+
+AI Prompt:
+*The same African man in late 20s, medium-dark brown skin, holding phone, anxious and sad expression, dim soft light, cinematic shadowing, vertical 9:16, ultra realistic, emotional storytelling*
+
+---
+
+🎞 Scene 7 — Emotional Realization
+
+Time: 0:41–0:50
+Shot Type: Close-up
+Visual: Hands gripping phone, wedding ring visible, subtle tear on cheek.
+Text overlay:
+“This choice I made… didn’t work out.”
+
+Mood: Deeply emotional, regretful
+
+AI Prompt:
+*Close-up of man’s hands gripping phone, wedding ring visible, slight tear on cheek, dim cinematic lighting, shallow depth of field, ultra realistic, vertical 9:16, emotional storytelling*
+
+---
+
+🎞 Scene 8 — Fade Out / Text Only
+
+Time: 0:51–0:60
+Shot Type: Minimal black background
+Visual: Subtle warm glow in corner
+Text overlay:
+“Mama… I’m getting divorced. 💔”
+
+Mood: Emotional closure, reflective
+
+AI Prompt:
+*Minimal black background with subtle warm golden light glow in corner, cinematic and emotional, vertical 9:16, ultra realistic, storytelling focus*
+
+---
+
+If you want, I can next generate the AI images for all 8 scenes exactly ready to use for your short, just like we did for your previous story.
+
+Do you want me to do that?

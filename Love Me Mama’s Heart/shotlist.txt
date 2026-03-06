@@ -1,0 +1,72 @@
+ #  Time    Shot Type                Camera  Lens               Movement                       Action  Notes                                                               VO  Audio                                                      
+ -  ------  -----------------------  ------------------		-----------------------------  ---------------------------------------------------------------------------  --------------------------------------------------------------- 
+ 1  0–3s    Close-up		50mm prime                  Slight handheld                Mother looks at herself in mirror, fingers tracing edge, half face shadowed  Whose heart will I find tonight                              
+
+
+ 2  3–8s    Medium vertical	35mm prime                  Slow pan from torso to face    Adjusts blouse, combs hair, anxious fidgeting                                Will someone love me the way I am                            
+
+
+ 3  8–15s   Close-up		50mm macro		    shallow focus  Static          Phone lights up, thumb hovers over answer, hesitation                        Every time I try… I’m left alone again.                       
+
+
+ 4  15–22s  Over-the-shoulder	35mm                        Slight push-in                 Child blurred in foreground playing, mother watches, faint smile             I must be strong… for my child.                               
+
+
+ 5  22–30s  Medium vertical	35–50mm                     Handheld slight shake          Sitting on bed, hands clasped, looking down, slumped shoulders               I want to be loved… truly loved… without masks, without fear. 
+
+
+ 6  30–38s  Side profile  window 35mm                        Slow dolly  push toward face  Mother looks out window at sunset, deep breath                               Maybe one day someone will see me… and love me as I am.       
+
+ 
+7  38–48s  Eye-level close-up	50mm                        Static tripod                  Mother looks straight into camera, single tear falls                         I wish someone could love me… the way I am.                   
+ 
+
+8  48–49s  Extreme close-up	85mm macro                  Static                         Hands clasped on lap, fingers trembling slightly                             Subtle ambient sound  heartbeat                                
+ 
+9  49–50s  Fade out  text overlay  NA                         NA                            Black frame with text “Every mother deserves love.”                         Soft fade-out music                                             
+
+
+🎥 Production Notes – Integrated
+
+Lighting:
+
+Scene 1 & 5: soft indoor window light + subtle LED fill
+
+Scene 6: golden hour sunlight through window
+
+Scene 7: soft warm fill, highlight tear
+
+Movement:
+
+Handheld: Scenes 1 & 5 for intimacy
+
+Slow dolly / push: Scene 6 to emphasize hope
+
+Static tripod: Scene 7 for direct emotional connection
+
+Sound Design:
+
+Subtle ambient room tone throughout
+
+Faint soft music under VO
+
+Optional heartbeat or sigh in scene 8
+
+Editing Tips:
+
+Cut on micro-emotional beats: tear drops, hand fidget, phone hesitation
+
+Keep pacing ~1–2 seconds per emotional beat to maintain engagement on Shorts
+
+Include AI storyboard frames as visual reference overlays for rough cut
+
+✅ Result:
+Following this timeline, you’ll have:
+
+AI storyboard visual guide
+
+Exact camera & lens instructions
+
+VO / dialogue timing
+
+Text overlay and emotional cues
