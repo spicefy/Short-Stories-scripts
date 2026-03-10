@@ -1,0 +1,447 @@
+# 1. Camera Angles and Exact Shots (Line-by-Line)
+
+||Artist:|| East African female singer
+||Locations:||
+
+* Location 1: Nature (hill / field / lakeside)
+* Location 2: Simple church or empty hall
+
+Camera movements should be ||slow, smooth, and emotional||.
+
+---
+
+# INTRO (Instrumental)
+
+=====Shot 1
+
+||Camera:|| Drone wide shot
+||Visual:|| Sunrise over hills or field.
+
+=====Shot 2
+
+||Camera:|| Wide shot
+||Visual:|| Singer walking slowly in the field.
+
+=====Shot 3
+
+||Camera:|| Close-up
+||Visual:|| Singer looking up to the sky.
+
+=====Shot 4
+
+||Camera:|| Slow side tracking shot
+||Visual:|| Wind moving her dress or scarf.
+
+---
+
+# VERSE 1
+
+=====Line
+
+||“Wewe ni Mungu wetu”||
+
+||Shot||
+Medium shot — singer standing in nature.
+
+---
+
+=====Line
+
+||“Ni Mungu unayeweza”||
+
+||Shot||
+Close-up — emotional singing.
+
+---
+
+=====Line
+
+||“Wewe ni Mungu wetu”||
+
+||Shot||
+Wide shot — singer alone in landscape.
+
+---
+
+=====Line
+
+||“Ni Mungu unayeweza”||
+
+||Shot||
+Camera slowly moves closer to singer.
+
+---
+
+=====Line
+
+||“Unaweza kuponya”||
+
+||Shot||
+Close-up of hands lifting slowly.
+
+---
+
+=====Line
+
+||“Unaweza kuinua”||
+
+||Shot||
+Low angle shot (camera slightly below singer looking upward).
+
+Symbolizes God's power.
+
+---
+
+=====Line
+
+||“Wewe wa milele”||
+
+||Shot||
+Sunlight behind singer (silhouette).
+
+---
+
+=====Line
+
+||“Tunakuinua”||
+
+||Shot||
+Singer lifts hands fully in worship.
+
+---
+
+# CHORUS
+
+=====Line
+
+||“Unaweza unaweza”||
+
+||Shot||
+Camera slowly circling around singer.
+
+---
+
+=====Line
+
+||“Unaweza Yesu”||
+
+||Shot||
+Close-up emotional face.
+
+---
+
+=====Line
+
+||“Unaweza unaweza Bwana”||
+
+||Shot||
+Wide shot with sky visible.
+
+---
+
+=====Line
+
+||“Unaweza unaweza”||
+
+||Shot||
+Slow walking shot.
+
+---
+
+=====Line
+
+||“Unaweza Yesu”||
+
+||Shot||
+Singer smiling with hope.
+
+---
+
+=====Line
+
+||“Unaweza unaweza Bwana”||
+
+||Shot||
+Singer kneels briefly.
+
+---
+
+# VERSE 2 (Church)
+
+=====Line
+
+||“Wewe ni Mungu wetu”||
+
+||Shot||
+Wide shot inside church.
+
+---
+
+=====Line
+
+||“Ni Mungu unayeweza”||
+
+||Shot||
+Medium shot near altar.
+
+---
+
+=====Line
+
+||“Unaweza kuokoa”||
+
+||Shot||
+Walking slowly between church benches.
+
+---
+
+=====Line
+
+||“Unaweza kubadilisha”||
+
+||Shot||
+Close-up emotional singing.
+
+---
+
+=====Line
+
+||“Wewe wa milele”||
+
+||Shot||
+Camera behind singer facing cross.
+
+---
+
+=====Line
+
+||“Hakuna kama Wewe”||
+
+||Shot||
+Singer raises hands in worship.
+
+---
+
+# BRIDGE (Most Emotional)
+
+=====Line
+
+||“Wewe ni mwamba wangu”||
+
+||Shot||
+Singer kneeling in prayer.
+
+---
+
+=====Line
+
+||“Wewe ndiye kimbilio”||
+
+||Shot||
+Close-up of hands clasped.
+
+---
+
+=====Line
+
+||“Nikiita Jina lako”||
+
+||Shot||
+Tears or emotional face.
+
+---
+
+=====Line
+
+||“Majibu yanashuka”||
+
+||Shot||
+Sunlight through church windows.
+
+---
+
+=====Line
+
+||“Miujiza yatokea”||
+
+||Shot||
+Singer standing slowly and lifting hands.
+
+---
+
+# FINAL CHORUS
+
+||Location:|| Sunset in nature.
+
+Shots alternate between:
+
+* Wide sunset worship
+* Close emotional singing
+* Drone pulling away slowly
+
+---
+
+# FINAL SHOT
+
+Singer standing alone.
+
+Camera slowly pulls away.
+
+Text appears:
+
+||“Hakuna lisilowezekana kwa Mungu.”||
+
+Fade out.
+
+---
+
+# 2. AI Video Prompts (For Generating Scenes)
+
+These prompts work well with ||AI video tools like Runway, Pika, Sora, or Gen-3 style generators||.
+
+---
+
+=====Prompt 1 — Opening Scene
+
+```
+African gospel singer woman standing in a peaceful green field at sunrise, soft golden sunlight, wind gently moving dress, cinematic lighting, emotional worship atmosphere, ultra realistic, 4K, slow motion
+```
+
+---
+
+=====Prompt 2 — Walking Worship Scene
+
+```
+East African female gospel singer walking slowly through tall grass field while singing worship song, sunrise light, peaceful spiritual mood, cinematic camera movement, realistic nature environment
+```
+
+---
+
+=====Prompt 3 — Worship Hands Scene
+
+```
+African woman lifting hands in worship, sunlight shining through clouds, emotional gospel moment, cinematic lighting, dramatic sky, peaceful spiritual feeling
+```
+
+---
+
+=====Prompt 4 — Church Scene
+
+```
+African gospel singer woman inside a simple church singing worship song, light rays through windows, peaceful spiritual atmosphere, cinematic lighting, emotional expression
+```
+
+---
+
+=====Prompt 5 — Prayer Scene
+
+```
+African woman kneeling in prayer inside church, sunlight rays illuminating her, emotional spiritual moment, peaceful cinematic lighting
+```
+
+---
+
+=====Prompt 6 — Final Worship Scene
+
+```
+African gospel singer worshipping at sunset in open field, dramatic orange sky, hands lifted to heaven, emotional gospel music performance, cinematic wide shot
+```
+
+---
+
+# 3. YouTube Viral Gospel Video Concept
+
+## Title Strategy
+
+Use emotional searchable titles.
+
+Examples:
+
+||“UNAWEZA YESU | Powerful Swahili Worship Song | African Gospel”||
+
+or
+
+||“Unaweza Yesu – Emotional African Worship Song That Will Touch Your Heart”||
+
+---
+
+## Viral Concept
+
+=====1. Authentic Simplicity
+
+Videos that go viral in African gospel often have:
+
+* simple locations
+* real worship emotion
+* natural lighting
+
+Not over-produced.
+
+---
+
+=====2. Emotional Story Layer
+
+Between verses add short silent clips of:
+
+* woman praying
+* walking with Bible
+* looking at sky
+* lighting candle in church
+
+This creates ||spiritual storytelling||.
+
+---
+
+=====3. Powerful Thumbnail
+
+Thumbnail idea:
+
+* Singer with ||hands lifted||
+* Sunlight behind
+* Text:
+
+||“UNAWEZA YESU”||
+
+Color:
+
+* gold
+* white
+* orange sunset
+
+---
+
+=====4. SEO Keywords
+
+Use in description:
+
+```
+Swahili gospel music
+African worship song
+Unaweza Yesu
+East African gospel
+Swahili worship songs
+Powerful worship Africa
+```
+
+---
+
+=====5. Engagement Strategy
+
+Pin comment:
+
+```
+Type "UNAWEZA YESU" if you believe God can do the impossible.
+```
+
+This increases interaction.
+
+---
+
+=====6. Best Upload Time
+
+For African gospel audience:
+
+||Sunday morning||
+or
+||Friday evening||
+
